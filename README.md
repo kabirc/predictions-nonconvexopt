@@ -11,3 +11,9 @@ The plots in the introduction are generated in the file 'Introduction Plots.ipyn
 ***Code author:*** Kabir Aladin Chandrasekher
 
 ***Pull requests and issues:*** @kabirc
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5602079.svg)](https://doi.org/10.5281/zenodo.5602079)
+
+
